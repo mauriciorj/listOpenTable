@@ -46,6 +46,7 @@ Improve the security and implement cookies.
         javascript: "3 yrs",
         react: "2 yrs",
         redux: "2 yrs",
+        database: "4 yrs"
     }
     softskills:{
         strong: "Team Player, Communication, Adaptability"
