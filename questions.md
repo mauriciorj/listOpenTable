@@ -2,8 +2,8 @@
 
 I spent around 6 hours and if I had more time I could improved the style, insert images and added more controls<br />
 
-##2.	What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
-<br />
+<h3>2.	What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.</h3>
+    
 ```javascript
 useEffect(() => {
     if(prevState !== nextState){
@@ -12,12 +12,12 @@ useEffect(() => {
 },[state])
 ```
 
-##3.	What were the more challenging parts of this assignment for you?
+<h3>3.	What were the more challenging parts of this assignment for you?</h3>
 
 Pagination
 
 
-##4.	How would you track down a performance issue in production? Have you ever had to do this?
+<h3>4.	How would you track down a performance issue in production? Have you ever had to do this?</h3>
 
 A bad performance can be due memory, time, lots of reders and request
 
@@ -25,11 +25,11 @@ You can check the server performance or the database performance
 
 You can also make tests to check the reder cycle
 
-##5.	How would you improve the API that you just used?
+<h3>5.	How would you improve the API that you just used?</h3>
 
 Improve the security and implement cookies.
 
-##6.	Please describe yourself using JSON.
+<h3>6.	Please describe yourself using JSON.</h3>
 ```javascript
 {
     personal:{
