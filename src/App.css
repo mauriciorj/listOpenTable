@@ -29,6 +29,7 @@ ul {
 
 li{
   font-family: "Roboto";
+  list-style-type: none;
 }
 
 .lineList{
