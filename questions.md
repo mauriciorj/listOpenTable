@@ -11,11 +11,12 @@ useEffect(() => {
     }
 },[state])
 ```
-<br />
+
 ##3.	What were the more challenging parts of this assignment for you?
 <br />
 Pagination
-<br />
+
+
 ##4.	How would you track down a performance issue in production? Have you ever had to do this?
 <br />
 A bad performance can be due memory, time, lots of reders and request
